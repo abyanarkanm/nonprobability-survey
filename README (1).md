@@ -235,7 +235,7 @@ Berdasarkan hasil analisis non-probability sampling pada survei penggunaan *musi
 
 ## Link Kuesioner
 
-*(Tambahkan link Google Form kamu di sini)*
+*(https://forms.gle/GRzrH3AzeHsfFerWA)*
 
 ## Penulis
 
